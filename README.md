@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ezreal Clone
 
 ## About
@@ -25,6 +24,3 @@ This app is a partial clone based on the gameplay of [Ezreal](https://www.league
 ## Notes
 - This was developed with [Processing 3](https://web.archive.org/web/20170331105213/https://processing.org/), which is now  [Processing](https://processing.org/), and I have not tested if the original code is compatible.
 - The original app had sound effects, which I was unable to include when modifying the code for HTML embedding compatibility.
-=======
-# ezreal-clone
->>>>>>> 4eba778a62cb140705c0de1a98d143fe597e1d0d
