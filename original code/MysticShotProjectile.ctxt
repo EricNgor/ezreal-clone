@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MysticShotProjectile
+comment1.params=applet\ ship\ aimLocX\ aimLocY
+comment1.target=MysticShotProjectile(processing.core.PApplet,\ SpaceShip,\ float,\ float)
+comment2.params=
+comment2.target=int\ getOpacity()
+comment3.params=
+comment3.target=void\ fade()
+comment4.params=
+comment4.target=long\ getStart()
+comment5.params=time
+comment5.target=void\ setStart(long)
+comment6.params=
+comment6.target=void\ show()
+numComments=7

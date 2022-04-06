@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DestLine
+comment1.params=applet
+comment1.target=DestLine(processing.core.PApplet)
+comment2.params=ship\ xDest\ yDest\ towardsTarget
+comment2.target=void\ show(SpaceShip,\ float,\ float,\ boolean)
+comment3.params=
+comment3.target=void\ resetOpacity()
+numComments=4

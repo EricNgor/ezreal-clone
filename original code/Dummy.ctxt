@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dummy
+comment1.params=applet
+comment1.target=Dummy(processing.core.PApplet)
+comment2.params=
+comment2.target=void\ targetted()
+comment3.params=
+comment3.target=void\ untargetted()
+comment4.params=
+comment4.target=float\ getRadius()
+comment5.params=
+comment5.target=void\ show()
+numComments=6

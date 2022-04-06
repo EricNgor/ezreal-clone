@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ezAA
+comment1.params=applet\ ship\ dummy
+comment1.target=ezAA(processing.core.PApplet,\ SpaceShip,\ Dummy)
+comment2.params=target
+comment2.target=void\ homing(Dummy)
+comment3.params=
+comment3.target=void\ show()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpaceShip
+comment1.params=applet
+comment1.target=SpaceShip(processing.core.PApplet)
+comment2.params=death
+comment2.target=void\ deathTrack(long)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ArcaneLandingParticles
+comment1.params=applet\ xGrave\ yGrave
+comment1.target=ArcaneLandingParticles(processing.core.PApplet,\ int,\ int)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=boolean\ despawn()
+comment4.params=time
+comment4.target=void\ setStartTime(long)
+comment5.params=
+comment5.target=double\ randomPosNeg()
+numComments=6
